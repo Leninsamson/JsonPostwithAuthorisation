@@ -1,0 +1,13 @@
+﻿<Application x:Class="HttpTest.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:HttpTest"
+             StartupUri="LoginForm.xaml">
+    <Application.Resources>
+
+  
+        <ResourceDictionary Source="Themes/Light.xaml"/>
+
+
+    </Application.Resources>
+</Application>

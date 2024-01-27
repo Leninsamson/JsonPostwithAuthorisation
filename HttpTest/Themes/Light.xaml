@@ -1,0 +1,14 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <SolidColorBrush Color="White" x:Key="Bgclr"/>
+    <SolidColorBrush Color="#FFA7B8EC" x:Key="Text"/>
+    <SolidColorBrush Color="#FFE2E9FF" x:Key="Fieldcolor"/>
+    <SolidColorBrush Color="#FFA7B8EC" x:Key="InsideBorder"/>
+    <SolidColorBrush  Color="#FF707070"  x:Key="InsideBordertext"/>
+    <SolidColorBrush  Color="#FFA7B8EC"  x:Key="Minimise"/>
+    <SolidColorBrush   Color="#FFA7B8EC"  x:Key="Close"/>
+    <SolidColorBrush   Color="Black" x:Key="RespText"/>
+    <SolidColorBrush   Color="White" x:Key="Btborder"/>
+
+</ResourceDictionary>
